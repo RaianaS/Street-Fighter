@@ -1,0 +1,42 @@
+@media(max-width: 750px) {
+    .lutadores {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px; 
+        padding: 30px 0;
+    }
+
+    .cartao-lutador {
+        max-width: 300px;
+        margin-bottom: 20px; 
+    }
+
+    .cartao-lutador .cartao-informacoes {
+        padding: 60px 30px 30px;
+        margin-top: -50px;
+    }
+
+    .cartao-lutador .cartao-informacoes h3 {
+        font-size: 16px;
+    }
+
+    .listagem {
+        max-width: 360px;
+        padding: 10px;
+    }
+
+    .listagem ul {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 10px;
+}
+
+    .listagem .lutador {
+        width: 48%;
+        border-radius: 8px;
+        margin-bottom: 10px; 
+        padding: 8px;
+        text-align: center; 
+    }
+}
