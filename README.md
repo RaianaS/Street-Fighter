@@ -41,5 +41,5 @@ Essa experiência foi extremamente enriquecedora e me ajudou a expandir ainda ma
 </p>
 
 <p align="center">
-  <a href="https://github.com/RaianaS/CursoemVideo.git" target="_blank">Explore o Projeto Completo</a>
+  <a href="https://github.com/RaianaS/Street-Fighter" target="_blank">Explore o Projeto Completo</a>
 </p>
